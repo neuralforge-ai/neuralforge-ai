@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔨I'm currently working on → AI/ML projects and building my portfolio<br>👥 I'm looking to collaborate on → Machine Learning and Data Science projects<br>🤝 I'm looking for help with → Deep Learning and Neural Networks<br>🌱 I'm currently learning → Python, Machine Learning, and Data Science<br>💬 Ask me about → AI, Machine Learning, Data Science and Python<br>⚡ Fun fact → I built an AI chatbot on my very first day of coding!<br><br>
+🔨I'm currently working on → AI/ML projects and building my portfolio<br>👥 I'm looking to collaborate on → Machine Learning and Data Science projects<br>🤝 I'm looking for help with → Deep Learning and Neural Networks<br>🌱 I'm currently learning → Python, Machine Learning, and Data Science<br>💬 Ask me about → AI, Machine Learning, Data Science and Python<br>⚡ Fun fact → I trained my first ML model to predict forest fires using real weather data!<br><br>
 
 
 ## 🌐 Socials:
